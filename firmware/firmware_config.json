@@ -1,0 +1,6 @@
+{
+  "version": "1.2",
+  "pcb_revisions": ["Rev2.0", "Rev2.1"],
+  "force_install": false,
+  "release_notes": "Miglioramenti stabilità WiFi e correzione bug sensore temperatura"
+}
