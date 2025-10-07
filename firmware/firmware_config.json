@@ -1,8 +1,8 @@
 {
   "type": "Stable",
-  "version": "1.2",
-  "pcb_revisions": ["Rev2.0", "Rev2.1"],
+  "version": 1.2,
+  "pcb_revisions": [2.0, 2.1],
   "force_install": false,
-  "bin": /firmware.bin,
+  "bin": "/firmware.bin",
   "release_notes": "Miglioramenti stabilità WiFi e correzione bug sensore temperatura"
 }
